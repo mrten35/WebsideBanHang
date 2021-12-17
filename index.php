@@ -31,7 +31,6 @@
         <div class="col-lg-12">
           <div class="main_title">
             <h2><span>NEW ARRIVALS</span></h2>
-            <h2>Ngan</h2>
           </div>
         </div>
       </div>
